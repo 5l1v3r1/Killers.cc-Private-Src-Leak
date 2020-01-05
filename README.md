@@ -17,6 +17,10 @@ The cfg "Save" button dosen't save the:Local Cham Color, Manual aa for some of t
 
 Manual AA dosen't work with Legit AA ;(
 
+Legit Bot's fixed.(Maybe)
+
+Put the CFG Folder on Your Desktop along with the KIllers folder (The configs are mine, just change em up)
+
 
 
 ----->Leaked by nagatoro.#8262
