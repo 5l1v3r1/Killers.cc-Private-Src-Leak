@@ -41,6 +41,8 @@ ALso please don't sell this lmao.
 
 <3
 
+(If the Discord link expires DM me)
+
 
 
 
@@ -50,6 +52,8 @@ ALso please don't sell this lmao.
 ★----->Cheat pasted by jin#5833★
 
 ★Youtube: https://www.youtube.com/channel/UC21NgLdfeJZY8A7XCR-Vk-g?view_as=subscriber★
+
+★Discord Server (For Help):https://discord.gg/DWtq89
 
 ★(Add me for help if You have any q's.)★
 
