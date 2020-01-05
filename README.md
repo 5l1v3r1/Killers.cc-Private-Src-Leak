@@ -25,6 +25,8 @@ Legit AA is absolutely Dogshit.
 
 Once You open the menu You have to press Esc to enable/disable stuff.
 
+To change the Local Player Cham color You have to navigate to the Colors tab and find "TP colors".
+
 
 
 
