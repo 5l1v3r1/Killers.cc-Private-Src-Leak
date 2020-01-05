@@ -9,6 +9,10 @@ To turn it on other configs Enable yaw and set it to Jitter.
 
 The "Legit AA" tickbox does not do anything.
 
+If Your Chams are black go to Video settings, and set Your Shaders to HIGH.
+
+DON'T put the configs in the Killers folder, put them in the cfg folder.(Put it in Desktop, Along with KIllers.)
+
 If You go to Thirdperson, make sure to enable Real Angles to see Your "Fake".(Your player model is what the enemy see's on their screen.)
 
 Resolver dosen't work.
@@ -27,9 +31,12 @@ Once You open the menu You have to press Esc to enable/disable stuff.
 
 To change the Local Player Cham color You have to navigate to the Colors tab and find "TP colors".
 
+I'll update the LEAK.zip since its super messy.
+
 
 
 
 
 ----->Leaked by nagatoro.#8262
-(Add me if You have any q's)
+(Add me if You have any q's.)
+(If they're not already answered here.)
