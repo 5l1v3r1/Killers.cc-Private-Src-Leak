@@ -31,12 +31,23 @@ Once You open the menu You have to press Esc to enable/disable stuff.
 
 To change the Local Player Cham color You have to navigate to the Colors tab and find "TP colors".
 
-I'll update the LEAK.zip since its super messy.
+
+Will this get updated?. No.
+However I will post updates if I do find any updates.
+
+
+See ya nerds.
+ALso please don't sell this lmao.
+
+<3
 
 
 
 
 
 ----->Leaked by nagatoro.#8262
+----->Cheat pasted by jin#5833
+Youtube: https://www.youtube.com/channel/UC21NgLdfeJZY8A7XCR-Vk-g?view_as=subscriber
 (Add me if You have any q's.)
 (If they're not already answered here.)
+
