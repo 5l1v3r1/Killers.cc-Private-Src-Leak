@@ -23,7 +23,7 @@ Notes:
 
 •Legit Bot's fixed.(Maybe)
 
-•Put the CFG Folder on Your Desktop along with the KIllers folder (The configs are mine, just change em up)
+•Put the CFG Folder on Your Desktop along with the KIllers folder (The configs are mine, just change them if You'd like.)
 
 •Legit AA is absolutely Dogshit.
 
@@ -31,9 +31,17 @@ Notes:
 
 •To change the Local Player Cham color You have to navigate to the Colors tab and find "TP colors".
 
+•Fakelag Is Not working AT ALL.
+
+
+
 
 •Will this get updated?. No.
-•However I will post updates if I do find any updates.
+(However I will post updates if I do find any updates.)
+
+Will I update this?.No.
+
+
 
 
 See ya nerds.
@@ -47,11 +55,11 @@ ALso please don't sell this lmao.
 
 
 
-★----->Leaked by nagatoro.#8262★
+★----->Leaked by nagatoro.#8262★<------★
 
-★----->Cheat pasted by jin#5833★
+★----->Cheat pasted by jin#5833★<------★
 
-★Youtube: https://www.youtube.com/channel/UC21NgLdfeJZY8A7XCR-Vk-g?view_as=subscriber★
+★Youtube Channel:https://www.youtube.com/channel/UC21NgLdfeJZY8A7XCR-Vk-g?view_as=subscriber★
 
 ★Discord Server (For Help):https://discord.gg/DWtq89
 
