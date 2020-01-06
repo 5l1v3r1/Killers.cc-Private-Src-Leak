@@ -33,6 +33,8 @@ Notes:
 
 •Fakelag Is Not working AT ALL.
 
+•Make sure to install the fonts.
+
 
 
 
